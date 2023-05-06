@@ -15,8 +15,8 @@ After a VMD rendering it is probable to have a very large image. To reduce its s
 
 
 ## Resize image in VMD and render it 
-display resize 960 540 (for example)
+display resize 500 600 (for example)
 
-the use the following keywords (plus the default ones) in Tachyon  
+then use the following keywords (plus the default ones) in Tachyon  
 
--aasamples 12 %s -format PNG -o %s.png  -res 1920 1080
+-aasamples 12 %s -format PNG -o %s.png  -res 2000 2400
