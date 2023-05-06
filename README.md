@@ -1,7 +1,13 @@
 # Rendering suggestions with VMD
 
 ## Draw arrows in VMD 
-Copy and paste the
+Copy and paste the content of the "vmd_draw_vector.tcl" in the VMD TK console and then you can draw arrows with the following command:
+```
+
+draw vector2 {a b c} {d  e f} x y
+
+```
+where 
 
 ## Reduce image "weight" from VMD
 
