@@ -7,7 +7,7 @@ Copy and paste the content of the "vmd_draw_vector.tcl" in the VMD TK console an
 draw vector2 {a b c} {d  e f} x y
 
 ```
-where 
+where a,b and c are the coordinates of the starting point of the arrow; d,e and f are the coordinates of the point that defines the arrow direction with the previous point. x is the length of the arrow and y is the resolution of the arrow. Full credit to the original tutorial, available at http://www.theochem.ruhr-uni-bochum.de/~legacy.akohlmey/cpmd-vmd/part7.html
 
 ## Reduce image "weight" from VMD
 
