@@ -1,4 +1,7 @@
-# Rendering-suggestions
+# Rendering suggestions with VMD
+
+## Draw arrows in VMD 
+Copy and paste the
 
 ## Reduce image "weight" from VMD
 
@@ -6,7 +9,7 @@ After a VMD rendering it is probable to have a very large image. To reduce its s
 
 
 ## Resize image in VMD and render it 
-display resize 960 540
+display resize 960 540 (for example)
 
 the use the following keywords (plus the default ones) in Tachyon  
 
